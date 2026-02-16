@@ -11,7 +11,7 @@ while True:
         print('xato')
     
     if guesses>=3:
-        print('yutqazdingiz')
+        print('yutqazdingiz😭')
         break
         
 
